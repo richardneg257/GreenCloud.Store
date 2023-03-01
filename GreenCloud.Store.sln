@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenCloud.Store.API", "GreenCloud.Store.API\GreenCloud.Store.API.csproj", "{D031AE01-9B07-4A03-B225-768D4B290E88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenCloud.Store.Entity", "GreenCloud.Store.Entity\GreenCloud.Store.Entity.csproj", "{1DFC1104-4B9B-4186-A6E7-2C212194B085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenCloud.Store.Repository", "GreenCloud.Store.Repository\GreenCloud.Store.Repository.csproj", "{BFBD3E21-1D21-4C19-BB9F-DF523B13B909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenCloud.Store.Application", "GreenCloud.Store.Application\GreenCloud.Store.Application.csproj", "{698769A9-B769-4F84-9F5D-D0A1182CED52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D031AE01-9B07-4A03-B225-768D4B290E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D031AE01-9B07-4A03-B225-768D4B290E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D031AE01-9B07-4A03-B225-768D4B290E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D031AE01-9B07-4A03-B225-768D4B290E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFC1104-4B9B-4186-A6E7-2C212194B085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFC1104-4B9B-4186-A6E7-2C212194B085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFC1104-4B9B-4186-A6E7-2C212194B085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFC1104-4B9B-4186-A6E7-2C212194B085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBD3E21-1D21-4C19-BB9F-DF523B13B909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBD3E21-1D21-4C19-BB9F-DF523B13B909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBD3E21-1D21-4C19-BB9F-DF523B13B909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBD3E21-1D21-4C19-BB9F-DF523B13B909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698769A9-B769-4F84-9F5D-D0A1182CED52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698769A9-B769-4F84-9F5D-D0A1182CED52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698769A9-B769-4F84-9F5D-D0A1182CED52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698769A9-B769-4F84-9F5D-D0A1182CED52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {918A9531-1836-42C9-970B-461B9F7DEE46}
+	EndGlobalSection
+EndGlobal
